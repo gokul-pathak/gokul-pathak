@@ -10,7 +10,3 @@ I also enjoy prototype and design in general. You can check out my Linkedlin at 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-pathak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gokul-pathak)](https://github.com/anuraghazra/github-readme-stats)
