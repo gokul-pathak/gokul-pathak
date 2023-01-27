@@ -5,4 +5,4 @@ I also enjoy prototype and design in general. You can check out my Linkedlin at 
 
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokul-pathak&show_icons=true&theme=radical)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-pathak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokul-pathak&show_icons=true&theme=radical)
