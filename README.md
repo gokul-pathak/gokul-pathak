@@ -2,7 +2,7 @@
   Welcome to Gokul Pathak's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-Meow
+
 <p align="center">
   <a href="https://github.com/gokul-pathak"><img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=560&height=45&lines=Developer,+Designer,+UI,+UX;Student+of+Bsc.+(Hons)+Information+Technology"></a>
 </p>
