@@ -15,8 +15,6 @@
 
 - 🌱 I’m currently learning **Java, PHP, ReactJS, Javascript**
 
-- 👯 I’m looking to collaborate on **School Management System**
-
 - 🤝 I’m looking for help with **Web Application Discussion Forum**
 
 - 👨‍💻 All of my projects are available at [http://github.com/gokul-pathak](http://github.com/gokul-pathak)
