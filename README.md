@@ -49,7 +49,7 @@
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=gokul-pathak&hide=contribs,prs&show_icons=true&theme=algolia)
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokul-pathak&theme=algolia" alt="saugaatadhikari" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokul-pathak&theme=algolia" alt="gopi" /></p>
 <br/>
 
 ![](https://activity-graph.herokuapp.com/graph?username=gokul-pathak&custom_title=Gokul%27s%20Contribution%20Graph&theme=react-dark)
