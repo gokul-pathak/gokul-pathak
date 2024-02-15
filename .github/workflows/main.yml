@@ -1,9 +1,17 @@
-name: Generate Datas
+name: generate animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  # run automatically every 24 hours at midnight
+  schedule:
+    - cron: "0 0 * * *"
+
+  # allows to manually run the job at any time
   workflow_dispatch:
+
+  # run on every push on the master branch
+  push:
+    branches:
+      - master
 
 jobs:
   generate:
@@ -13,31 +21,21 @@ jobs:
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@master
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v2.5.0
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-  update-readme:
-    name: GitHub README Generator
-    runs-on: ubuntu-latest
-    steps:
-      - uses: th3c0d3br34ker/github-readme-info@master
-        with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          TIMEZONE: "Asia/Kathmandu"
-          SHOW_LINES_OF_CODE: "False"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_DAILY_COMMIT: "True"
-          SHOW_WEEKLY_COMMIT: "True"
-          SHOW_LANGUAGE: "False"
-          SHOW_TOTAL_CONTRIBUTIONS: "False"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
