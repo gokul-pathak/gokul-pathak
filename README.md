@@ -99,6 +99,13 @@
 </div>
  </p>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/gokul-pathak/gokul-pathak/output/snake.svg" alt="Snake animation" />
+
+###
 ### Languages I use the most:
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
