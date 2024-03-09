@@ -108,16 +108,15 @@
 ###
 ### Languages I use the most:
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
-<br/>
+**Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
 
-  <img src="https://github-readme-stats.vercel.app/api?username=gokul-pathak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-
-### Github Statistics:
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokul-pathak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokul-pathak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" width="320" alt="languages graph"/>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokul-pathak&theme=dracula" alt="gopi" /></p>
-<br/>
-
-![](https://activity-graph.herokuapp.com/graph?username=gokul-pathak&custom_title=Gokul%27s%20Contribution%20Graph&theme=dracula)
+### Github Statistics:
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=gokul-pathak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" width="320" alt="stats graph"/>               
+  <span style="margin: 0px 10px;"></span>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokul-pathak&theme=dracula" height="150" width="320" alt="gopi" />
+</div>
