@@ -1,122 +1,82 @@
-<h3 align="center">
-  Welcome to Gokul Pathak's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h1 align="center">🚀 Welcome to My Digital Space! 🚀</h1>
 
 <p align="center">
-  <a href="https://github.com/gokul-pathak"><img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=560&height=45&lines=Developer,+Designer,+UI,+UX;Student+of+Bsc.+(Hons)+Information+Technology"></a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" height="50">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=%23FF6F61&size=24&center=true&vCenter=true&width=650&height=50&lines=Hello,+I'm+Gokul+Pathak!;UI/UX+Designer+|+Web+Developer+|+Tech+Enthusiast;Turning+Ideas+into+Visually+Stunning+Experiences;Welcome+to+My+GitHub!"/>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul-pathak&label=Profile%20views&color=0e75b6&style=flat" alt="gokul-pathak" /> </p>
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokul-pathak" alt="gokul-pathak" /></a> </p>-->
+---
 
-- 🔭 I’m currently working on **Web Application Discussion Forum**
+## 🌟 **About Me**
 
-- 🌱 I’m currently learning **Java, PHP, ReactJS, Javascript**
+- 🎨 Passionate **UI/UX Designer & Web Developer**
+- 💻 Currently learning **ReactJS, JavaScript, PHP, and AI-powered design**
+- 🚀 Working on **Web Application Discussion Forum & Creative UI Projects**
+- 🔍 Exploring **AI-driven design solutions & frontend frameworks**
+- 📫 Contact me at **[gokul_pathak@pm.me](mailto:gokul_pathak@pm.me)**
+- 🌐 **[Portfolio](https://www.behance.net/gallery/193056737/Pathsala)** | **[Website](https://tarahilllodge.com/)**
 
-- 🤝 I’m looking for help with **Web Application Discussion Forum**
+---
 
-- 👨‍💻 All of my projects are available at [http://github.com/gokul-pathak](http://github.com/gokul-pathak)
+## 🎨 **Tech Stack & Skills**
 
-- 💬 Ask me about **UI/UX, Frontend Development**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,figma,xd,photoshop,illustrator,wordpress,php,mysql,git,github,vscode,linux" width="100%"/>
+</p>
 
-- 📫 How to reach me **gokul_pathak@pm.me**
+---
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://www.youtube.com/@errorgamingnepal?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="sorry" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+## 🔗 **Connect With Me**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gokul-pathak/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/g0kul_pathak/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/gokul-pathak/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.gg/YBsqdXk5" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/gokul_pathak" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-  <a href="https://tryhackme.com/p/gokul8" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.behance.net/gokulpathak" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
+    <img src="https://img.shields.io/badge/Behance-%231769ff.svg?style=for-the-badge&logo=behance&logoColor=white"/>
   </a>
-  <a href="@GokulPathak" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  <a href="https://discord.gg/YBsqdXk5" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-</div>
+  <a href="https://www.hackerrank.com/profile/gokul_pathak" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="30" alt="moodle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-</div>
- </p>
+---
 
-###
+## 📊 **GitHub Stats & Activity**
 
-<br clear="both">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gokul-pathak&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokul-pathak&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/gokul-pathak/gokul-pathak/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-pathak&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
+</p>
 
-###
-### Languages I use the most:
+---
 
-**Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
+## 🔥 **GitHub Contribution Graph**
 
-<div align="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokul-pathak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" width="320" alt="languages graph"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokul-pathak&theme=tokyonight" width="100%"/>
+</p>
 
-### Github Statistics:
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokul-pathak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" width="320" alt="stats graph"/>               
-  <span style="margin: 0px 10px;"></span>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokul-pathak&theme=dracula" height="150" width="320" alt="gopi" />
-</div>
+---
+
+## 🐍 **Contribution Snake**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gokul-pathak/gokul-pathak/output/snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+<p align="center">
+  <b>🚀 Let's connect and create something amazing! 🚀</b>
+</p>
