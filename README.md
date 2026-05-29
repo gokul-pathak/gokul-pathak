@@ -25,7 +25,7 @@ I design and build **AI-powered digital products** — clean, fast interfaces th
 - 🤖 Integrating **LangChain · Ollama · FastAPI** into frontend products
 - 🎓 B.Sc. Information Technology — Asia Pacific University
 - 📍 Nepal &nbsp;|&nbsp; 🌍 Open to **Remote · UAE · Europe**
-- 📫 **gokul_pathak@yahoo.com**
+- 📫 **gokul_pathak@pm.me**
 
 ---
 
@@ -81,7 +81,7 @@ I design and build **AI-powered digital products** — clean, fast interfaces th
 
 **Building at the intersection of design, frontend, and AI**
 <br/>
-Open to Remote · UAE · Europe &nbsp;|&nbsp; gokul_pathak@yahoo.com
+Open to Remote · UAE · Europe &nbsp;|&nbsp; gokul_pathak@pm.me
 
 </div>
 
