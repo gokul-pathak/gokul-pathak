@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,50:1A56DB,100:3B82F6&height=200&section=header&text=Gokul%20Pathak&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%26%20UI%2FUX%20Designer&descAlignY=55&descSize=18&descColor=93C5FD&animation=fadeIn" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,50:1A56DB,100:3B82F6&height=200&section=header&text=Gokul%20Pathak&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%26%20UI%2FUX%20Designer&descAlignY=55&descSize=18&descColor=93C5FD&animation=fadeIn)
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=1A56DB&size=20&center=true&vCenter=true&width=700&height=45&lines=Mid-Level+Frontend+Developer+%26+UI%2FUX+Designer;Building+AI-Powered+Fintech+Products;React+%C2%B7+Next.js+%C2%B7+Figma+%C2%B7+LangChain+%C2%B7+Tailwind;Open+to+Remote+%7C+UAE+%7C+Europe+Roles"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=1A56DB&center=true&vCenter=true&width=700&height=45&lines=Mid-Level+Frontend+Developer+%26+UI%2FUX+Designer;Building+AI-Powered+Fintech+Products;React+%C2%B7+Next.js+%C2%B7+Figma+%C2%B7+LangChain+%C2%B7+Tailwind;Open+to+Remote+%7C+UAE+%7C+Europe+Roles)](https://git.io/typing-svg)
 
 <br/>
 
@@ -25,7 +25,7 @@ I design and build **AI-powered digital products** — clean, fast interfaces th
 - 🤖 Integrating **LangChain · Ollama · FastAPI** into frontend products
 - 🎓 B.Sc. Information Technology — Asia Pacific University
 - 📍 Nepal &nbsp;|&nbsp; 🌍 Open to **Remote · UAE · Europe**
-- 📫 **gokul_pathak@pm.me**
+- 📫 **gokul_pathak@yahoo.com**
 
 ---
 
@@ -61,12 +61,13 @@ I design and build **AI-powered digital products** — clean, fast interfaces th
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gokul-pathak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gokul-pathak&theme=tokyonight&hide_border=true" width="48%"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=gokul-pathak&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-pathak&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="40%"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gokul-pathak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+&nbsp;
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-pathak&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 </div>
 
@@ -82,18 +83,18 @@ I design and build **AI-powered digital products** — clean, fast interfaces th
 
 ## 🐍 Contribution Snake
 
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/gokul-pathak/gokul-pathak/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1A56DB,100:0A1628&height=100&section=footer)
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1A56DB,100:0A1628&height=100&section=footer" width="100%"/>
 
 **Building at the intersection of design, frontend, and AI**
 <br/>
-Open to Remote · UAE · Europe &nbsp;|&nbsp; gokul_pathak@pm.me
+Open to Remote · UAE · Europe &nbsp;|&nbsp; gokul_pathak@yahoo.com
 
 </div>
