@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,50:1A56DB,100:3B82F6&height=200&section=header&text=Gokul%20Pathak&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%26%20UI%2FUX%20Designer&descAlignY=55&descSize=18&descColor=93C5FD&animation=fadeIn)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,50:1A56DB,100:3B82F6&height=200&section=header&text=Gokul%20Pathak&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20and%20UI%2FUX%20Designer&descAlignY=55&descSize=18&descColor=93C5FD&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=1A56DB&center=true&vCenter=true&width=700&height=45&lines=Mid-Level+Frontend+Developer+%26+UI%2FUX+Designer;Building+AI-Powered+Fintech+Products;React+%C2%B7+Next.js+%C2%B7+Figma+%C2%B7+LangChain+%C2%B7+Tailwind;Open+to+Remote+%7C+UAE+%7C+Europe+Roles)](https://git.io/typing-svg)
 
@@ -57,26 +57,14 @@ I design and build **AI-powered digital products** — clean, fast interfaces th
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://streak-stats.demolab.com/?user=gokul-pathak&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gokul-pathak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-pathak&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-
-</div>
+## 📊 GitHub Stats <div align="center"> <img height="180em" src="https://streak-stats.demolab.com?user=gokul-pathak&theme=tokyonight&hide_border=true" /> <br/><br/> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gokul-pathak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" /> &nbsp; <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-pathak&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" /> </div>
 
 ---
 
 ## 🔥 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gokul-pathak&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gokul-pathak&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 ---
@@ -84,12 +72,10 @@ I design and build **AI-powered digital products** — clean, fast interfaces th
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/gokul-pathak/gokul-pathak/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img width="100%" src="https://raw.githubusercontent.com/gokul-pathak/gokul-pathak/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1A56DB,100:0A1628&height=100&section=footer)
 
 <div align="center">
 
@@ -98,3 +84,6 @@ I design and build **AI-powered digital products** — clean, fast interfaces th
 Open to Remote · UAE · Europe &nbsp;|&nbsp; gokul_pathak@yahoo.com
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1A56DB,100:0A1628&height=130&section=footer" />
+
